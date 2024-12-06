@@ -94,15 +94,6 @@ This project was built as part of a full-stack web development course. The app d
 
 
 
-### Key Updates:
-- **Project Description**: Clear explanation of the project's purpose and key features.
-- **Getting Started**: Detailed instructions for installing dependencies, setting up the API key, running the app, and building for production.
-- **API Setup**: Clear setup instructions for integrating the textrazor API.
-- **Service Workers**: Instructions for testing offline functionality.
-- **Testing**: Guide for running unit tests with Jest.
-- **Deployment**: Information about deploying the project on platforms like **Netlify** and **Heroku**.
-
-
 
 
 
